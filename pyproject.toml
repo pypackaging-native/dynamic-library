@@ -35,9 +35,9 @@ test = [
 ]
 
 [project.urls]
-Documentation = 'https://github.com/Filipe Laíns/dynamic-library#readme'
-Issues = 'https://github.com/Filipe Laíns/dynamic-library/issues'
-Source = 'https://github.com/Filipe Laíns/dynamic-library'
+Documentation = 'https://github.com/pypackaging-native/dynamic-library#readme'
+Issues = 'https://github.com/pypackaging-native/dynamic-library/issues'
+Source = 'https://github.com/pypackaging-native/dynamic-library'
 
 [tool.hatch.build.targets.wheel]
 include = [
